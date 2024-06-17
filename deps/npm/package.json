@@ -197,7 +197,7 @@
     "eslint-plugin-promise": "^5.1.0",
     "eslint-plugin-standard": "^5.0.0",
     "licensee": "^8.2.0",
-    "tap": "^15.0.9"
+    "tap": "^18.0.0"
   },
   "scripts": {
     "dumpconf": "env | grep npm | sort | uniq",
